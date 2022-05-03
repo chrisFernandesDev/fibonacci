@@ -33,7 +33,8 @@
             android:inputType="number"
             android:textColor="@color/textColor"
             android:textSize="24sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:gravity="center"/>
 
         <Button
             android:id="@+id/btnCalcular"
